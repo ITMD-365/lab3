@@ -216,7 +216,12 @@ form {
   margin: 0 auto;
   padding: 25px;
 }
-
+#input-email input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #dee0e3;
+}
 
 
 /* ===== STATE STYLES ======= */
