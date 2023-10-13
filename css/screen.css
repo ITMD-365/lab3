@@ -234,8 +234,12 @@ input[type="checkbox"] {
 
 input[type="submit"] {
   padding: 15px;
-  background-color: gray;
+  background-color: dee0e3;
   border: none;
   border-radius: 8px;
   font-size: 25px;
+}
+
+input[type="submit"]:hover {
+  background-color: gray;
 }
