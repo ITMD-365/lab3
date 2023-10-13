@@ -211,6 +211,13 @@ h1{
 }
 
 /* ===== LAYOUT STYLES ====== */
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+
 
 /* ===== STATE STYLES ======= */
 /* Additional styles for the form */
