@@ -227,6 +227,11 @@ input[type="checkbox"] {
   height: 1em;
   width: 1em;
 }
+#input-age-verification input {
+	width: 25%;
+	padding: 25px;
+	text-align: center;
+}
 
 
 /* ===== STATE STYLES ======= */
