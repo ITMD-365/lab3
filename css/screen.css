@@ -222,6 +222,11 @@ form {
   border-radius: 8px;
   background-color: #dee0e3;
 }
+input[type="checkbox"] {
+  float: left;
+  height: 1em;
+  width: 1em;
+}
 
 
 /* ===== STATE STYLES ======= */
